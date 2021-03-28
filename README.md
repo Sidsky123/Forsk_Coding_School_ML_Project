@@ -7,6 +7,8 @@ A Dashboard to analyse the sentiments of reviews by customers using the product 
 For a complete demo of the project, please watch the video:
 https://youtu.be/0WhRESq_Hnk
 
+File containing the ui: review_predictor_app.py
+
 ## Components of the DashBoard:
 
 ### Pie Chart
